@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Filename Fixer
+Exec=python3 /usr/share/filenamefixer/filenamefixer.py
+Icon=namefixer.png
+Terminal=false
+Type=Application
+Categories=Utility;
+Comment=It makes file names and lengths compatible with Windows.
+Comment[tr]=Dosya adlarını ve uzunluklarını Windows uyumlu hale getirir.
+

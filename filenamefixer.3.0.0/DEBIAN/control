@@ -1,0 +1,9 @@
+Package: filenamefixer
+Version: 3.0.0
+Architecture: all 
+Maintainer: A. Serhat KILICOGLU <github.com/shampuan>
+Depends: python3 (>= 3.6), python3-pyqt6, libxcb-cursor0
+Description: A tool that removes emojis and invalid characters from file names.
+ FileName Fixer is a tool that automatically corrects invalid characters, 
+ emojis, and excessively long names in file and folder names for Windows 
+ compatibility. It has been rewritten with PyQt6.
